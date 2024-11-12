@@ -156,3 +156,7 @@ Exemplo para executar no console:
 multiply(4, 7);
 multiply(20, 20);
 multiply(0.5, 3);
+
+Nota: A instrução return diz ao navegador para retornar a variável result da função para que ela esteja disponível usar. Isso é necessário porque as variáveis definidas dentro das funções só estão disponíveis dentro dessas funções. Isso é chamado de variável escopo.
+
+# Eventos 
